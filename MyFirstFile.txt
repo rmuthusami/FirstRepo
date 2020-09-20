@@ -1,6 +1,6 @@
-This is my first file in FirstRepo
-Making some additional changes in github repo
-This change is made in local machine
-I'm adding 4th line from Github
-Added 5th line from local machine
-Added 6th line from IntellJ
+        This is my first file in FirstRepo
+        Making some additional changes in github repo
+        This change is made in local machine
+        I'm adding 4th line from Github
+        Added 5th line from local machine
+        Added 6th line from IntellJ
